@@ -1,0 +1,159 @@
+Map 16:
+
+===========================================================================
+Archive Maintainer      : Apparently HACX has its own category on /idgames,
+                          but none on this form. This is specifically a HACX
+                          level.
+Advanced engine needed  : MBF21 compatible
+Primary purpose         : Single play
+===========================================================================
+Title                   : HACXPLODO.wad
+Filename                : hacxplodo.wad
+Release date            : 21/01/2024
+Author                  : Thelokk
+Email Address           : [redacted]
+Other Files By Author   : 12ep.wad, boa2kd.wad, sloi.wad, bystanders.wad, and
+                          more
+
+Description             : Single level for HACX because why not. -cl21,
+                          fairly tough, makes extensive use of the game's
+                          enviro hazards. 
+
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : HACX
+Map #                   : 01
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : Player starts only
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch 
+Build Time              : A few days
+Editor(s) used          : UDB, SLADE3
+May Not Run With        : vanilla ports
+Tested With             : DSDA 26.0, GZDoom 10.0
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+
+(There have been some minor graphical changes in MAP16 as well.)
+
+
+Map 01 and Map 02:
+
+===========================================================================
+Archive Maintainer      : N/A
+Update to               : N/A
+Advanced engine needed  : Not Required, Anything that can play on DOOM format
+Primary purpose         : Singleplayer Only
+===========================================================================
+Title                   : Urbinex 
+Filename                : hacxurb.wad
+Release date            : May 1st, 2024
+Author                  : DannyMan
+Email Address           : [redacted]
+Other Files By Author   : N/A
+Misc. Author Info       : N/A
+
+Description             : Fight your way to the post at the city.
+
+Additional Credits to   : N/A
+===========================================================================
+* What is included *
+
+New levels              : MAP01 only
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : N/A
+
+
+* Play Information *
+
+Game                    : HACX
+Map #                   : MAP01
+Single Player           : Designed for Player Starts only
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : N/A
+Difficulty Settings     : Not Implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Several months
+Editor(s) used          : Ultimate Doom Builder
+Known Bugs              : None
+May Not Run With        : N/A
+Tested With             : LZDoom and DSDA-Doom
+
+
+
+* Copyright / Permissions *
+
+You MAY not distribute this file in any format.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
+
+
+
+(Special permission was obtained for this map.)
+
+
+While the game's music was composed by cNyrin, the music for MAP01 was taken from HacX 2.0 and arranged by DannyMan.
+
+
+Thanks to HacX for the game graphics and sound. Thanks "Banjo Software"
+Thanks to cNyrin for the music.
+Thanks to HacX 2.0 for the music, and to DannyMan for arranging it. (MAP01)
+Thanks for the Thelokk and DannyMan maps.
+Only 4 maps were obtained from Doomworld ID Games. (MAP01, MAP02, MAP16)
+All other maps were created by LeadSoldier (Kayra Uras Uysal).
+
+DannyMan Doomworld: https://www.doomworld.com/profile/32787-dannyman/
+Thelokk Doomworld: https://www.doomworld.com/profile/36794-thelokk/
+cNyrin Doomworld: https://www.doomworld.com/profile/49727-cnyrin/
+LeadSoldier Doomworld : https://www.doomworld.com/profile/62617-leadsoldier/
+

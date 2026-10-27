@@ -1,0 +1,56 @@
+                HaXXoR Software License
+
+
+                        This license was prepared by Kayra Uras Uysal 
+and belongs to LeadSoldier Software and its founder, Kayra Uras Uysal.
+
+My name is Kayra, and this game utilizes graphics from the game 
+*Hacx*; these graphics belong to Hacx, Banjo Software, and Rich Johnston, 
+and there is no copyright infringement involved. This game absolutely 
+cannot be transferred to another party without a signed document; 
+for such a transfer to occur, there must be an official signature and an official statement issued or verified by LeadSoldier Software.
+
+Sharing Permissions
+------------------
+
+          1. When distributing the game, the official site (link provided at the very bottom) must be specified; otherwise, the game will be removed from the platform where it was shared.
+
+          2.The files must be complete without exception; for example, files such as CreditsAndThanks.txt,  License.txt, Legalhacx.txt, Credithacx.txt, and all other types of files must be fully included.
+
+          3. When sharing the game, absolutely no fee must be charged; it must be released entirely free of charge, and no payment may be requested in exchange for the files. Ex:
+              
+               a. Selling files,
+
+               b. Renting files,
+ 
+               c. Charging a fee per use for files,
+
+               d. Any use of the files for commercial purposes. 
+
+
+All of these are strictly prohibited.
+
+
+          4. Distribution as a WAD file is permitted, but all .txt files must be included; otherwise, if you distribute only the WAD file, it will be immediately removed.
+
+
+Reuse permissions
+------------------
+
+          1. Proper attribution must be given for maps created by Kayra Uras Uysal; attribution is also required if any edits or modifications are made to the maps he produced.
+
+          2. In this game, maps, music, and graphics other than those created by Kayra Uras Uysal are not covered by these copyright terms; the original creators must be contacted regarding them.
+
+          3. Credit must be given for the graphics created by Kayra Uras Uysal.
+
+          4. All necessary credit must be secured.
+
+
+Any questions or comments should be directed to
+
+Kayra Uras Uysal
+LeadSoldier
+Creator of the game HaXXoR
+leadsoldierrrsoftware@gmail.com
+https://kayrauras.neocities.org/leadsoldiersoftware
+
