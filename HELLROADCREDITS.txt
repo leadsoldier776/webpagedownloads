@@ -1,0 +1,1984 @@
+===========================================================================
+
+*Credits*
+
+Game Maker: Kayra Uras Uysal
+
+Sounds: Freedoom. codename HYENA killermachine, Kayra Uras Uysal, Google.
+
+***Former mapmakers are also included in this list.***
+
+Maps Makers: Kayra Uras Uysal, John Wantland, Jayextee, Bryan Cady, Karl Minor, Adam Goldman, Jan Engelhardt, Jacek Dobrzyniecki, Nicol Jarvie, Michael Wheeler, Dan Ferro, Doug Merrill, Mark Anthony Klem, Ivar Remoy, Radromity, James Mitchell, franckFRAG, Dimiter Todorov Georgiev, Rob Berkowitz, David J. Finnamore, hex11, Ian Chipman, Hardy Davis, David Jewsbury, Memfis, Max Thrott, MV, Jason Scanlin, Orin Flaharty, Matej "Mages" Zary (1 Freedoom level)
+
+Musics: tamara mochaccina
+
+Textures: Kayra Uras Uysal, Doomworld, Freedoom, codename HYENA killermachine.
+
+Demo Record: Kayra Uras Uysal.
+
+===========================================================================
+
+Freedoom link: https://freedoom.github.io/
+codename HYENA killermachine (hyena.wad)  link: https://www.doomworld.com/unholy/games_hyenashots.shtml
+
+
+
+***Thanks to everyone involved.***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAPS INFO: 
+
+***Some of the levels were developed by id games and others by LeadSoldier.***
+***Old mapmakers also have their place here.***
+
+***THERE HAS BEEN NO EXPLOITATION OF LABOR; LOANS HAVE BEEN GIVEN EVERYWHERE.***
+
+***Many thanks to all the map creators.***
+
+idgames maps link: https://www.doomworld.com/idgames/levels/doom2/m-o/
+                                  https://www.doomworld.com/idgames/levels/doom/m-o/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===========================================================================
+Title                   : fracture.wad
+Date Finished           : 1/1999
+Author                  : Adam Foster
+Email Address           : afoster@zetnet.co.uk
+Other Files By Author   : Maybe some Quake levels... :-)
+Misc. Author Info       : Can't stand Microsoft
+
+Description             : Industrial, factories, human enemies...
+
+Additional Credits to   : Linus Torvalds, id Software, producers of The Gimp
+===========================================================================
+* Type of DOOM II file*
+
+New level WAD           : Yes
+Required To Have In Dir : Doom II (obviously)
+
+* Play Information *
+
+Map #                   : Maps 1, 2, 3, 4, 5
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (but pointless)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Music               : No
+New Graphics            : Yes (but not obvious), new level titles
+Demos Replaced          : None
+Works with		: Original Doom2.exe, DosDoom, linuxdoom, 
+			  lxdoom (Linux port of Boom) and probably
+			  everything else.
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : 1 year (approximately) 
+Editor(s) used          : Deu2c, Deep (DOS), WinTex (but not LaTeX,
+			  obviously)
+Known Bugs              : Pretty pointless for deathmatch
+May Not Run With...     : Scissors
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels - but they have to give me credit. Consider this WAD file
+to be under the GPL.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com and mirrors (hopefully)
+
+Other: email me at <afoster@zetnet.co.uk> and I'll send you a copy
+
+===========================================================================
+Archive Maintainer      : n/a
+Update to               : n/a
+Advanced engine needed  : n/a
+Primary purpose         : Single play
+===========================================================================
+Title                   : Fortress of Mystery
+Filename                : hex-e2m9.wad
+Release date            : 2012-11-06
+Author                  : hex11
+Email Address           : hex11@mail.com
+Other Files By Author   : This is my first level! ;-)
+Misc. Author Info       : I like classic DOOM, 1994 maps, Freedoom, Blasphemer, etc.
+
+Description             : After defeating the spider mastermind, you return to Earth
+                          and enjoy some R&R.  One day while skying in the Alps, you
+                          fall down a crevasse and find yourself in this strange land.
+
+Additional Credits to   : General Rainbow Bacon for the original idea
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : Yes (reveals one of the secrets)
+Other                   : No
+Other files required    : No
+
+
+* Play Information *
+
+Game                    : DOOM
+Map #                   : E2M9
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : Player starts only
+Other game styles       : n/a
+Difficulty Settings     : Not implemented (ran out of things)
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : about one week
+Editor(s) used          : DEU 5.21, BSP 3.0
+Known Bugs              : 
+May Not Run With        : DOOM 1.2 (sorry, I tried but got too much HOM)
+Tested With             : DOOM 1.9, Chocolate Doom 1.7.0
+
+Player start is in lava because that's what you fell into.  Okay, real reason is you
+have to activate a linedef, and there weren't any to spare.  Anyway, just keep moving
+and you'll be fine, and hey look there's a shiny blue thing up ahead! :-)  But there's
+only a few "safe" spots you can hang around for long, and the demo LMP shows what
+happens to those who lollygag...
+
+This map has identical number of vertices, linedefs and things as the original E2M9.
+I ran out of linedefs, so couldn't mark the exit lift (it will only activate once you
+grab the red key).
+
+The map came about as a result of this thread:
+http://www.doomworld.com/vb/wads-mods/61763-mapping-challenge/
+
+
+* Copyright / Permissions *
+
+The contents of hex-e2m9.zip are free software; you can redistribute it and/or
+modify it under any version of the Do What The Fuck You Want To Public License.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
+
+
+
+================================================================
+Title                   : MAP01-Style
+
+Filename                : m1style.zip (m1syle.txt and m1style.wad)
+
+Author                  : John Wantland  
+		  
+Email Address           : jwantland@macalester.edu
+
+Description             : This is a map I created inspired by Doom 2's MAP01.
+			  I came up with the idea for a MAP01-type level way 			  	  
+			  last year when the MAP01 slot for Freedoom was open,                           	  
+			  and I figured that it'd be a simple level to do.
+			  However, my little brother decided to free up some                           	  
+			  hard drive space so he could download more games, and
+			  in the process deleted my Doom2 directory AND my MP3                            
+			  directory.  Thus, I lost all of the work I had done 				  
+			  on it, and gave up in despair.  This summer, however,
+			  I've spent a lot of time mapping, mainly for 			 		  
+			  Freedoom, and needing to take a break from that, I      			   		  
+			  started a couple of other side projects, and this is 			  			  
+			  one of them.  I decided I would resurrect my MAP01-style 			  
+                          map, and make it even better than my old one.
+
+Addition Credits to	: ID Software for Doom 2 and MAP01.
+
+			  The guy who wrote Wadauthor (I swear I'll register it
+			  as soon as I get the chance)
+
+================================================================
+
+* What's included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No 
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : Map01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : YeS
+Other game styles       : None
+Difficulty Settings     : Yes
+
+* Construction *
+
+Base                    : Inspired by MAP01, new level from scratch
+Build time		: On and off for a couple of weeks
+Editor(s) used          : Wadauthor 1.30
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.
+
+You MAY distribute this file.
+
+
+* Where to get this WAD *
+
+http://www.doomworld.com/idgames/
+
+===========================================================================
+Advanced engine needed  : None!
+Primary purpose         : Single+Coop play
+===========================================================================
+Title                   : The Machine
+Filename                : machine.wad
+Release date            : 10/08/2005
+Author                  : Jacek "Illdo" Dobrzyniecki
+Email Address           : korodzik@poczta.onet.pl
+Other Files By Author   : Naval Battle, Mean Mines, Harmful Hospital, Tagzonez
+Misc. Author Info       : none...
+
+Description             : Just your typical tech level with some gore mixed in. 
+
+Additional Credits to   : Too lazy to write something here
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : No
+
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : Map01
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : Player starts only
+Other game styles       : N/A
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 2 days
+Editor(s) used          : DoomBuilder
+Known Bugs              : None
+May Not Run With...     : Wolfenstein 3D
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+Web sites: doomworld.com/idgames/
+FTP sites: archives.3dgamers.com
+
+===========================================================================
+Advanced engine needed  : Vanilla
+Primary purpose         : Singleplayer
+===========================================================================
+Title                   : Macrozona
+Filename                : macrozon
+Release date            : 26/Feb/2023
+Author                  : Eye del Cul and Cacodemon187
+Email Address           : [redacted]
+Other Files By Author   : Preshower
+			  Baphomet's Satellite
+			  Siderurgia
+			  Marathon Arrival in DOOM!!
+                          BRUHNITRO: Evilution
+			  Jimmycorp
+			  ...and hundreds more of unfinished maps :,)
+Misc. Author Info       : I'm not from Bangladesh, don't believe their lies!
+
+Description             : This was supposed to be MAP15 of a Doom 2 conversion I was working on for Eye del Cul's "Death in the Ass of the Universe" (best title btw)
+			  I eventually lost interest in the project but this one map ended up pretty fun in my opinion, so I decided to share it for the world to see!
+			  I might upload more Doom 2 conversions from Cul's wad, but don't expect me to say anything about it. I'm hesitant to share this on Doomworld as this is not really my own work.
+			  Also, just to make it clear, Eye del Cul provided permission for anybody to edit and reupload his maps. What a cool guy!
+
+			  UV may be tight in ammo so I recommend HMP for first-timers.
+
+Additional Credits to   : Mark Klem for the awesome midis, valkiriforce for converting the cool sky to the Doom palette, and Eye del Cul for all of his fun maps. (play Garrulismo!)
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : MAP01
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : No
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : E2M5 from niveles.wad, by Eye del Cul
+Build Time              : I dunno. More than an hour I guess.
+Editor(s) used          : Ultimate Doom Builder, SLADE 3
+Known Bugs              : There might be a VPO or drawseg overflow somewhere. I didn't check, sorry
+May Not Run With        : Nothing!
+Tested With             : Chocolate Doom, Crispy Doom
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+
+==============================================================================
+Title                   : -*MagEwaD*-  [Version 1.2] {Nice number}
+Filename                : mages.wad
+Author                  : Matej "Mages" Zary
+Email Address           : mages@miesto.sk
+Description             : Three levels for doom ][. Architecture, lights, fun.
+
+Additional Credits to   : All, who helped me.(Mainly Myself)
+Notes                   : WinDEU32 is great editor, but is full of bugs.
+==============================================================================
+* Play Information *
+
+Episode and Level #     : MAP01, MAP02, MAP03
+Version Required:       : Doom II (Tested on v1.666, v1.7, v1.7a and v1.9)
+Single Player           : Yes, great !!!
+Cooperative 2-4 Player  : Yes, great !!!!!
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : Yes, demo from first level.
+==============================================================================
+* Construction *
+
+Base                    : New level from scratch
+Tools used              : WinDEU32 5.24, WAD_DWD 1.0, IDBSP 1.0,
+                          DOOM2WAD 1.0
+==============================================================================
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  You MAY
+distribute this WAD, provided you include all files, with no modifications.
+You MAY distribute this file in any electronic format (BBS, Diskette, CD,
+etc) as long as you include all files intact and let me know that you are
+doing this.  If you use any ideas presented in this WAD, just give me credit.
+==============================================================================
+* Where to get this WAD *
+
+Mage's Page www.mages.miesto.sk
+==============================================================================
+* Other fucking text *
+
+Metallica kick your ass. Buy S&M and hear with open mouth. Anothers fuckers:
+Motherfuckers, Fuckfaces, directors and teachers. GO IN HELL WITH NFS V !!!!!!
+* ShiT * ShiT * ShiT * ShiT * ShiT * ShiT * ShiT * ShiT * ShiT * ShiT * ShiT *
+
+===========================================================================
+Title                   : MAP30.WAD
+Date Finished           : Feb. 1997
+Author                  : Ian Chipman
+Email Address           : outpost@cyberspace.org
+
+Description             : This level is similar to map 30 in the original
+                          DOOM II. You get armed to the teeth and blow away
+                          the Icon of Sin. I got the textures of the boss
+                          right on the first try!
+
+                          I hope to create a new episode with this level.
+
+Additional Credits to   : id Software, Antony Burden, Simon Oke, Robert
+                          Fenske, Jr.
+===========================================================================
+
+* Play Information *
+
+Map #                   : MAP30
+Single Player           : Yes
+Cooperative             : Yes
+Deathmatch              : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From scratch
+Build Time              : Less than a day
+Editor(s) used          : DETH, WARM
+Known Bugs              : Sometimes things become invisible due to too much
+                          objects
+
+* Copyright / Permissions *
+
+You may use this level as a base to build additional levels, just give me
+credit for my effort.
+
+You may distribute this WAD, provided you include this file, with no
+modifications. You may distribute this file in any electronic format (BBS,
+diskette, CD, etc) as long as you include this file intact.
+
+(THERE IS AN EXTRA FILE THAT CAME WITH THIS WAD NAMED "OPINION.TXT". IT ASKES QUESTIONS
+ABOUT YOUR OPINION OF THE WAD, (WHAT WORKS,WHAT DOESN'T,HOW TO MAKE IT BETTER,ECT).  
+IT WILL TAKE LESS THAN TWO MINUTES TO FILL OUT.  PLEASE DO AND EMAIL IT BACK TO 
+bobcatou@ix.netcom.com  This is my first wad and I want to make it a quality one so
+I need other input than my own.  Thanks
+
+
+
+================================================================
+Title                   : THE MONSTER MASH  
+Filename                : MASH.WAD           
+Author                  : Bryan Cady
+Email Addresses         : bobcatou@ix.netcom.com
+                        		  
+Description             : This wad has a combination of wide open areas and narrow hallways
+			  with several traps throughout.  I tried to leave plenty of ammo 
+			  a few gifts here and there.  I tried to make it satisfy several 
+			  tastes and tried to make it fairly difficult. 
+===============================================================
+
+* Play Information *
+Game			: DOOM2 (VERSION 1.9 OR EARLIER) (MIGHT WORK WITH DOOM 1) haven't checked
+Level #                 : 1 level
+Single Player           : Yes (Best this way)
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : NO
+New Music               : No
+Demos Replaced          : Not Yet
+
+* Construction *
+
+Base                    : Made from scratch.
+
+Editors used            : WinDEU32/16/32 bit (Used this 80% of the time)
+			  Dmapedit 4.0.11 (Used for building nodes and prefabed structures
+			  like stairs)
+			 
+			  
+			  
+		        
+Known Bugs              : Minor texture alignments.  
+* Copyright / Permissions *
+  Distribute this wad as much as you want.  Leave opinion txt with it.	
+
+===========================================================================
+Advanced engine needed  : None
+Primary purpose         : Single play
+===========================================================================
+Title                   : Maps by my 6 Year Old Son
+Filename                : MBM6YOS.WAD
+Release date            : 27.12.12
+Author                  : Dylan Ellis Bourke
+Email Address           : chrisbourke@live.co.uk
+Other Files By Author   : Wait...
+Misc. Author Info       : I am 7 years old but I was 6 when I made these
+                          maps. My Dad helped.
+
+Description             : Five short Doom II levels:
+
+			: MAP01 - Doom Station of the Devil
+			: MAP02 - Doom of the Fearier
+			: MAP03 - the Dead Room of Doom
+			: MAP04 - Blood Street
+			: MAP05 - Never Survived
+
+Additional Credits to   : My Dad helped me.
+===========================================================================
+* What is included *
+
+New levels              : 5
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01 - 05
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : All maps were made in 1 day, over the course of a
+                          few months
+Editor(s) used          : Doombuilder
+Known Bugs              : Have fun collecting them all
+May Not Run With...     : Doom 3
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+
+========================================================================
+Title                   : MBunk1.wad
+Author                  : Dan Ferro 
+Email Address           : danielkabrinski@gmail.com
+
+Description             : Multiplayer map, can be played in single                                 player mode (A LOT of monsters are in                                    there for four player co-op).  It's a big                           bunker in the middle of four smaller ones.
+
+========================================================================
+
+* Play Information *
+
+ Episode and Level #     : MAP01
+ Single Player           : Yes
+ Cooperative 2-4 Player  : Yes
+ Deathmatch 2-4 Player   : Yes 
+ Difficulty Settings     : Yes/Minimal
+ New Sounds              : No
+ New Music               : No
+ New Graphics            : No
+
+* Construction *
+
+ Base                    : From scratch
+ Editor(s) used          : DoomCAD 6.1
+ Known Bugs              : None
+
+* Copyright / Permissions *
+
+ Authors are allowed to use my wad as a base for additional levels,      basically do what you want with it.  As a courtesy, let me know so I    can play your finished project.
+
+================================================================
+Title                   : Mustache Doom 
+Filename                : md.wad
+Author                  : Doug Merrill
+Email Address           : opulent@goodnet.com
+Misc. Author Info       : http://www.goodnet.com/~opulent/doom2.htm
+			  http://www.doomworld.com/sda/doom_sda.htm
+
+Description             : My last map was an entry to Metabolist's 
+			  Wad-in-a-week contest -- it was called
+			  The Archvile's Revenge (for good reason).
+			  This one is the Cyberdemon's revenge.
+			  Most players will want to play Hurt Me
+			  Plenty(if anything)... UV is geared for 
+			  the Cyber-freaks out there.
+			  My maps are ugly, so don't expect much.
+			  Created in about 4 hours... wound up 
+			  playing it more than editing, I think.
+			  
+This map is dedicated to Albert Valls.
+
+Additional Credits to   : Everyone who has supported my site.
+			  Ben Morris for DCK.
+			  Derek Merrill.
+================================================================
+* Play Information *
+
+Episode and Level #     : Map01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes -- the starts are there.
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : Yes, but please send some anyway.
+			  skill 1 -- 1:00
+			  skill 4 -- 4:19
+			  both first time demos... more at my site
+			  by the time you read this.  :)
+
+* Construction *
+Base                    : New level from scratch
+Editor(s) used          : DCK 3.0
+Known Bugs              : That darn Sector 0 bug... it would take too
+			  long to change.
+
+Other:  		:  The title is named from one of my favorite 
+			   movies: "J.W.Coop" -- when you _understand_ 
+			   the movie, then you'll know why.
+			 
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+===========================================================================
+Title                   : MEINHAUS.WAD
+Date Finished           : 4-23-95
+Author                  : Karl Minor
+Email Address           : karl54@aol.com
+Other Files By Author   : N/A
+
+Description             : Those UAC bastards thought they could trip me up
+                          by embedding a mockup of my house in their 
+                          underground complex.  Well, I'm not quite that 
+                          stupid.  They forgot the sky and most of my 
+                          furniture, and I would never store my shotgun in
+                          the kitchen.  Thank God they got the bathroom right;
+                          I'm about to blow a bladder.  Haven't seen a toilet
+                          in the last 106 levels!
+
+                          This DOOM2 WAD contains three pretty big, complex 
+                          levels.  I was shooting for the flavor of the 
+                          original DOOM levels, which were more fun to explore
+                          than the DOOM2 levels.  They're presented in the 
+                          order I wrote them, so you may notice they get more
+                          polished as the levels progress.  I welcome any 
+                          comments or suggestions.
+
+                          These were written on a 486DX33, so they should 
+                          be rather zippy on faster machines.  They've been 
+                          played on a 386DX as well, without causing suicide.
+
+Thanks to:                Troy & Mark for play-testing the levels, Matt Ayers
+                          for writing the WADED editor.
+
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+New level WAD           : Yes
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+Dehack Patch Only       : No (version required)
+.LMP Only               : No
+Other                   : No (describe)
+Required To Have In Dir : Nothing but DOOM2
+
+* Play Information *
+
+Map #                   : Map 01-03 (For DOOM II only)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes, but not recommended.
+Difficulty Settings     : Yes
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+Reject Resource         : Yes
+
+* Construction *
+
+Base                    : New levels from scratch.
+Build Time              : 100+ hours (do I smell a divorce?)
+Editor(s) used          : WADED to create, DEU to debug, ASP to build nodes.
+Known Bugs              : A few spiders packin' plasma guns.
+May Not Run With...     : N/A
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+1¾   «          ( . . . . .                                                                   /                                                                                                '                               ================================================================
+Title:			Melee.WAD
+
+Author:			Derry Cooke (a.k.a. Dermot Cooke)
+
+Email Address:		dermot@ihug.co.nz (Email your comments, job
+                          	offers, pitiful cries for help, unbridled
+                          	praise, or polite suggestions ;-).
+
+Misc. Author Info: 	38 yo MWM, with a 486/100. This is my first WAD 
+
+Description:		A warped and twisted WAD, with puzzles,
+                         	mayhem, a sense of humour... and more mayhem!
+                         	It has been playtested and is definitely do-able at
+                         	ultra-violence level without cheating.
+			
+This new Melee has a number of improvements on the 1997 version.  
+Some cool lighting effects, new music, new areas, new secrets, more interesting
+(i.e. less boring) use of textures, new gameplay elements and a completely
+new endgame, which adds another evil puzzle, oodles more carnage, and 
+(if you're good) about another 15 minutes of play to the completion time. ;-)  
+All in all, melee.wad is MUCH more of a challenge now, but STILL
+'definitely do-able'.  I also managed to track down and kill a few bugs...
+This 'final release' addresses a design flaw in the last release which made it 
+impossible to find 100% of the secret areas.  The secrets are all findable
+now... go get 'em!
+
+
+
+The Story (if you want one):
+
+In an ultra secure part of the infernal city of Dis, some of Hell's top
+imp-scientists have been constructing a prototype imp-replicator.
+If they succeed, Hell will be able to produce infinite numbers of imps and
+overwhelm Earth with sheer force of numbers.  Your mission is to find and
+assassinate these imp-scientists, destroy the prototype,kill everything else
+that moves (just for fun) and try to make it out in one piece.  
+The prototype is sure to be securely guarded. 
+An entire squad of marines has already tried and failed to halt this 
+nefarious project.
+The last communication from them mentioned fiendish puzzles, death-mazes,
+levitators, time travellers and assorted nasty traps and tricks.
+To help you on your mission you will be teleported down to the vicinity as
+the preparations commence for the Grand Melee: an annual slaughterfest held
+for the amusement of the ruling Cyberdemon pentad.  If Hell's armies
+are focussed on killing each other, perhaps you can complete your mission
+and get out alive...
+
+Additional Credits to:	id Software, the Great Goddess, my parents, members
+                          	of the Academy.. and my wife and son who will
+	                        be seeing more of me now that Melee is finally
+            		            finished.  Big thank you to the wonderful
+                        		Ben Morris for the great DCK. Thanks to Dan Teeter for the 
+			music from his nifty surreal2.wad and thanks also to 
+			Warren Rice who apparently did the midi sequencing.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #:	 	DOOM II, level 01
+Single Player:	 		Yep (Hooo-Haaa!!!!)
+Cooperative 2-4 Player: 	Yep (but not playtested)
+Deathmatch 2-4 Player:		Yep (but not playtested)
+Difficulty Settings: 		Yep, grudgingly
+New demos:	 		Nope
+New Music:			Yep: Nine Inch Nails:- Head Like a Hole
+New Sounds:	 		Nope
+New Graphics:	 		Nope
+
+* Construction *
+
+Base:				Melee.wad (circa 1997 release)
+Build Time:			About 95 hours: finished October 17 1998
+Editor used:			DOOM Construction Kit (DCK v.3.62)
+
+Known Bugs:			you may get a 'R_Findplane: no more visplanes'
+				crash when looking out over the 3D maze from certain 
+				vantage points. Some areas were a problem but after 
+				a little sector reworking now seem to play OK.  If you
+				should strike this bug you might need to try BOOM 
+				-the new retooled DOOM engine from team TNT, 
+				available from http://www.teamtnt.com.
+ 
+* Copyright / Permissions *
+
+Hey this is a big planet, and I'll most likely never know what you do
+with Melee.Wad.  Feel free to use it as a base from which to build
+other wads.
+If you _do_ use it as a base to build another WAD, you
+could Email me a copy of the new WAD. I'd like to see what you do to it!
+I would appreciate Email from anyone who has deathmatched
+melee.wad with comments and suggestions for improvement...
+
+If you claim Melee.Wad as your own work and I ever find out...
+
+...then I'll be flattered!
+
+If you distribute this WAD, please include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc).
+
+
+
+
+crets, more interesting
+(i.e. less boring) use of textures, new gameplay elements and a completely
+new endgame, which ad€     w 8"  7` >"8" Ç À÷  ó4`› ÷     `÷ J`‰E÷   E0p`P`ð   p`²Z`X`P`>" ?"ð n`³gp`²7gö  ÈÈÎ`  ?"ç!, X €   #  ÿÿ7  ÿÿ9  ÿÿf  ÿÿh  ÿÿ¥  ÿÿë  ÿÿ*  ÿÿ,  ÿÿr  ÿÿt  ÿÿ«  ÿÿô  ÿÿC  ÿÿ…  ÿÿŠ  ÿÿÎ  ÿÿ  ÿÿk  ÿÿ³  ÿÿ ³    ÿÿF  ÿÿ’  ÿÿã  ÿÿ/  ÿÿC  ÿÿE  ÿÿG  ÿÿI  ÿÿg  ÿÿi  ÿÿ²  ÿÿõ  ÿÿA  ÿÿŒ  ÿÿÚ  ÿÿ  ÿÿL  ÿÿ“  ÿÿ§  ÿÿ §  ò  ÿÿ4	  ÿÿ€	  ÿÿÍ	  ÿÿ
+  ÿÿ^
+  ÿÿt
+  ÿÿv
+  ÿÿÂ
+  ÿÿ  ÿÿU  ÿÿš  ÿÿñ  ÿÿ+  ÿÿc  ÿÿe  ÿÿ§  ÿÿ©  ÿÿ¿  ÿÿÁ  ÿÿ Á  ë  ÿÿ  ÿÿE  ÿÿw  ÿÿŸ  ÿÿ³  ÿÿé  ÿÿþ  ÿÿ  ÿÿ  ÿÿ)  ÿÿ+  ÿÿT  ÿÿŒ  ÿÿ¿  ÿÿÁ  ÿÿÿ  ÿÿ:  ÿÿt  ÿÿ°  ÿÿ °  è  ÿÿ  ÿÿG  ÿÿJ  ÿÿg  ÿÿi  ÿÿ°  ÿÿô  ÿÿ  ÿÿ9  ÿÿƒ  ÿÿ¾  ÿÿú  ÿÿü  ÿÿ<  ÿÿ>  ÿÿZ  ÿÿ\  ÿÿ˜  ÿÿÛ  ÿÿ Û  ý  ÿÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ°  ÿÿô  ÿÿ  ÿÿ9  ÿÿƒ  ÿÿ¾  ÿÿú  ÿÿü  ÿÿ<  ÿÿ>  ÿÿZ  ÿÿ\  ÿÿ˜  ÿÿÛ  ÿÿ    Arial    one piece.  
+The prototype is sure to be securely guarded. 
+An entire squad of marines has already tried and fai
+
+===========================================================================
+Primary purpose         : Single play
+===========================================================================
+Title                   : Man in the Mirrew
+Filename                : gyant.wad
+Author                  : Ruba
+Email Address		: rubarubyrock@hotmail.com
+Misc. Author Info       : Thai Doomer
+
+Description             : You are a man. You grab your gun. Kill 3 bald men. Grab their guns and destroy
+			  some big pink mosnters. There is a nice effect where in the outer hall way is
+			  a big mirrew. But you appear hidden becaous special potion was deployd in level
+			  that deactivate moving objects in mirrew.
+
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2 
+Map #                   : 01
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time		: an hour or so
+Editor(s) used          : doombuilder
+Bugs			: None
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+
+The Halls of Death - original PWAD level for DOOM ][
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+Title                   : The Halls of Death
+Filename                : MKHALLS.WAD
+Author                  : Mark Anthony Klem
+Email Address           : mark@netdoor.com
+Misc. Author Info       : Author of the entire CRINGE! episode except
+                          the Secret Level which was by Eric Sargent.
+
+Your Mission            : Survive.
+
+Additional Credits to   : All of the Authors of DEU and BSP.
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+*  Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes / Original tune written by me that's 
+                                got it goin' own like a chicken bone.
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : MKD2EDIT (Modified version of DEU 5.21)
+Known Bugs              : None
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD * This of course is so you can tell someone 
+* where the most convenient place for them to get it is at, if any.
+
+BBS numbers: 
+ 
+ Software Creations BBS (Home of the Authors)
+  (508) 365-2359
+ 
+ APCi BBS (Multiplayer DOOM and DOOM ][)
+  (618) 632-7664
+ 
+ BitStream (Lots and lots of DOOM stuff!)        
+  (708) 705-7741
+
+===========================================================================
+Title                   : Moonlight Sonata
+Filename                : moonlite.wad
+Release date            : July 9th, 2004
+Author                  : Ivar 'jallamann' Remøy
+Email Address           : ivar@nightmaster.net
+Other Files By Author   : jallaspace (jallaspc.zip)
+Misc. Author Info       : Mental. Tore down a wall today.
+
+Description             : This was originally a map for the Doom Republic
+                          Community Wad, but since the project has appeared
+                          to have died, I thought I'd release some of my
+                          work.
+                          I guess it's somewhat hard to beat, due to the
+                          absence of medikits.
+
+Additional Credits to   : The folks at www.doomrepublic.com
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes. Stole it from Blood by Monolith
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : N/A
+
+* Play Information *
+
+Game                    : Doom II (With port. Vanilla refuses to start.)
+Map #                   : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : No
+Difficulty Settings     : Implemented
+
+
+* Construction *
+
+Base                    : Scratch.
+Build Time              : 10 hrs build time, 20 hrs fooling around
+Editor(s) used          : Doom Builder 1.53, XWE
+Known Bugs              : Some texture misalignments I was too lazy to find
+May Not Run With...     : wolf3d.exe
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites: None.
+
+BBS numbers: BBS is outdated, sorry
+
+Other: www.doomrepublic.com
+
+===========================================================================
+Advanced engine needed  : Boom compatible
+Primary purpose         : Single Player
+===========================================================================
+Title                   : Claustral
+Filename                : mop_1024.wad
+Release date            : July 31, 2008
+Author                  : Kyle Casteel
+Email Address           : acyclitor@gmail.com
+Other Files By Author   : mop_3.wad, mop_4.wad, mop_5.wad, 4hour.wad
+Misc. Author Info       : also known as Acyclitor & MasterOfPuppets, depending on which doom site you visit
+
+Description             : a map limited to a 1024x1024 square (some geometry extend beyond this boundairy, but the player and all gameplay happen within this area). this map was made when the 1024 contests and community projects were just starting to get popular. Never released until now. Its a short, claustrophobic castle map with lots of brown bricks and metal (my favorite stock textures!).
+
+Additional Credits to   : James Ebert (aka MrSlapHappy) for keeping this file saved on his HDD for over two years. It would be forever lost otherwise!
+===========================================================================
+* What is included *
+
+New levels              : One
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : MAP01
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : NO
+Difficulty Settings     : Yes (I think...)
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : about 12 hours.
+Editor(s) used          : Doombuilder, XWE
+Known Bugs              : None
+May Not Run With        : Doomsday/jDoom
+Tested With             : ZDoom 2.2.0.748
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites: http://teamhellspawn.com/acyclitor/maps.html
+
+================================================================
+Title                   : Mountain
+Filename                : MOUNT.WAD
+Other WADs by author    : MAZEMOD.WAD
+Author                  : James Mitchell
+Email Address           : jmitchel@gil.ipswichcity.qld.gov.au
+Description             : This wad is basically just a single
+                          room with a mountain in the middle.
+                          You're pretty vulnerable up there
+                          but that's where the firepower is to
+                          kill the snipers.
+                          The deathmatch start positions DON'T
+                          give equal advantage.
+                          Hey, lemme know.
+
+Additional Credits to   : Mike Rascher - testing
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New from scratch
+Editor(s) used          : DEU v5.21, BSP
+Known Bugs              : Might get minor HOM effects from some
+                          angles.
+Design Time             : ???
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with no 
+modifications.  You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+* Where to get this WAD *
+
+===========================================================================
+Advanced engine needed  : vanilla-compatible port
+Primary purpose         : Single play
+===========================================================================
+Title                   : Muskadet
+Filename                : muskadet.wad
+Release date            : 30/11/2014
+Author                  : franckFRAG
+Email Address           : franck.livolant@laposte.net
+Other Files By Author   : Author of "Fradm1";
+			  map08 of "Plutonia Revisited";
+			  map14 of "Interception";
+			  map03, map12, map16, map18, map22 and map25 of "3 Heures d'Agonie".
+			  map04, map13 and map25 of "3 Heures d'Agonie II"
+			  New leader project of "Necromantic Thirst"
+			  
+
+Misc. Author Info       : Graphist, and creator and admin of "Doom Staze" (http://doomstaze.free.fr/)
+
+Description             : One big classic vanilla map, inspired by "Interception" and "Bellatrix".
+
+Additional Credits to   : Players from Doomworld and French Doom Community for
+                          feedback.
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom2
+Map #                   : map01
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : Yes
+Other game styles       : None
+Difficulty Settings     : None
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : few months
+Editor(s) used          : Doom Builder 1.68, XWE
+Known Bugs              : Very discreet HOM in a zone. Possible VPO in inacessibles areas
+May Not Run With...     : Anything other than the intended port
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+
+================================================================
+Title                   : Cyber Fun :)
+Filename                : mycyber.zip -> cyber.wad
+Author                  : Dimiter Todorov Georgiev
+Email Address           : dimitertg@yahoo.com
+                          desto@iterra.net
+Misc. Author Info       : See my.txt :)
+
+
+
+
+Description             : Just a funny idea that came to me one day :)
+
+
+
+
+Additional Credits to   : id
+================================================================
+
+
+
+
+* Play Information *
+
+
+
+
+Game                    : DOOM II
+Episode and Level #     : Map01
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : YES!!!
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+
+
+
+* Construction *
+
+
+
+
+Base                    : New level from scratch - sort of :)))
+Editor(s) used          : off, don't remember :)))
+Known Bugs              : Nope, none
+
+
+
+
+
+* Copyright / Permissions *
+
+
+
+
+Authors (MAY/may NOT) use this level as a base to build additional
+levels.
+
+
+
+
+You may do whatever you want with this file.
+
+
+
+
+
+* Where to get this WAD *
+
+
+
+
+FTP sites:            None yet !!!
+
+
+
+
+BBS numbers:          None yet !!!
+
+
+
+
+Other:                None yet !!!
+
+
+
+
+===========================================================================
+Title                   : njmaps.wad (V1.1)
+Date Finished           : 25/4/96
+Author                  : Nicol Jarvie
+Email Address           : 101552.2665@compuserve.com
+Other Files By Author   : njmap01.wad
+Misc. Author Info       : Budding editor still learning; but learning
+quickly
+Description             : Military testing has continued after hells recent
+	invasion after the government denighed all knowledge of events
+	Leading up to the invasion.  Playing with forces of nature they know
+	nothing about will probably cause trouble so you decide to get
+	yourself to Mars, at their new research plant, and pay an unfriendly
+	visit.
+
+Additional Credits to   : The makers of NWT (New Wad Tools) for their
+	'Nice little program'; the makers of WinDEU 5.24 for their sheer
+	brilliance on Doom2 and David Mitchel for .Wad support.
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+
+New level WAD           : Yes
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+Dehack Patch Only       : No
+.LMP Only               : No
+Other                   : No 
+Required To Have In Dir : Nothing but the magical game itself!
+
+* Play Information *
+
+Map #                   : Map 01&02 (For DOOM II only)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Music               : No
+New Graphics            : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A long time in total
+Editor(s) used          : WinDEU, NWT for doom
+Known Bugs              : BUGer all
+May Not Run With...     : ...out doom2
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  (But you cheat if ya do!)
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: Don't know
+
+BBS numbers: Don't know
+
+Other: & Don't know
+
+===========================================================================
+Primary purpose         : Single+Coop play
+===========================================================================
+Title                   : Not So Simple
+Filename                : notso.wad
+Release date            : 5/13/2009
+Author                  : Mr. Chris
+Email Address           : chrisdragon425@yahoo.com
+Other Files By Author   : map7cjp.zip, dimxmus.zip, rockit.zip, endmus.zip
+Misc. Author Info       : Resides on Doomworld and sometimes NewDoom, also involved in helping on the Oblige project ( http://oblige.sourceforge.net )
+
+Description             : A much larger, spacious arena for the Dead Simple slot for Doom 2.
+
+Additional Credits to   : CodeImp, Wintex, id Software and Doomword
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : Yes, only level name
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP07
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 1 hour
+Editor(s) used          : Doom Builder, Doomword, Paint Shop Pro, Wintex, XWE
+Known Bugs              : None
+May Not Run With...     : Ultimate Doom
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+
+
+============================================================
+Title:		Nowhere to Hide
+Version:	1.0          
+Filename:	nowhere.wad
+Author:		Rob Berkowitz
+E-mail:		docbob@slip.net
+Website:	http://www.slip.net/~docbob/doom2.html
+Description:	A single-level Doom2 PWAD.
+Previous WADs by author:
+9 levels of Realm Of Chaos (including this level; rlmchaos.zip)
+4-level Enter Night (entrnite.zip)
+Deathmatch Canyon (canyondm.zip)
+Deathmatch Keep (dethkeep.zip)
+============================================================
+*Play Information*
+
+Game:  Doom2
+Level #:  MAP 32
+Single Player:  Yes
+Cooperative 2-4 Player:  Yup, but untested
+Deathmatch 2-4 Player:  Yes, but untested
+Difficulty Settings:  Definitely
+New Sounds:  No
+New Graphics:  SKY3 from Realm of Chaos
+New Music:  No
+Demos Replaced:  None
+
+*Construction*
+
+Base:  New level from scratch
+Editor(s) Used:  All the good editors for the MacIntosh:
+Hellmaker v1.2b2, MacBSP v1.0, WARM v1.0b1, Deimos v0.4.1b
+
+*Copyright/Permissions*
+
+Authors MAY use this level as a base, but only if you ask
+me first. You MAY distribute this WAD in any format, as long
+as you include this text file.
+============================================================
+
+
+Title                   : Nuclear Waste                             
+Release Date            : 17 Sept 2002
+File List               : NUCWASTE.WAD
+                          NUCWASTE.TXT
+
+Author                  : David J. Finnamore
+Email Address           : doom@elvenminstrel.com
+
+* Play Information *
+Game                    : DOOM II 
+Map Numbers             : Map01, 02, 03 
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes, some
+New Music               : Yes, for all three levels
+* Construction *
+Base                    : New WAD from scratch, except level 3, 
+                          based on my acidplnt.wad
+Main Editor(s) used     : Wad Author 1.3
+
+"NUCWASTE.WAD" is a three-level DOOM II wad designed 
+exclusively for single player.  It was made for the standard 
+engine.  The theme is "nukage" or "poison," the radioactive 
+slime familiar to all Doomers.
+
+-1-
+Level One is a nuclear power plant, the source of the slime 
+processed and barrelled in the following levels.  Play begins 
+with a pistol, against the easiest monsters--but ammo is in 
+short supply.  Shoot well and dodge deftly, friend, or risk 
+dying in a fist fight.  The difficulty level escalates quickly 
+as you make your way from Cooling Tower Control toward the 
+customer entrance, which is your exit.  The music is /Lost/, 
+"lost.mus".
+
+--2--
+Level Two takes you outside, and starts with a bang.  You can 
+run and and you can hide.  Or you can die, makes no difference 
+to me.  You will discover that the power plant has developed 
+some serious problems--major leakage from the third tower.  
+Somebody's gonna have to clean it up.
+
+This is a two-part level--two levels in one, really.  It is 
+possible to return to the first area from the second, but not 
+very practical in most cases.  Some resources are hidden from 
+plain view.  It pays to hunt around a little.  This level 
+makes the most use of my new textures.  The music is /Acid 
+Rock/, "acidrk12.mus".
+
+---3---
+Level Three is a major upgrade of my acidplnt.wad.  The 
+setting is a processing plant for nuclear waste, the flow of 
+which can be traced throughout the wad until it is finally 
+neutralized in a giant machine and barrelled up for shipping.  
+Of course, there are a several denizens of Hell that will not 
+be happy about your inspection of the premises.  One of them 
+happens to be rather large, especially ill-tempered, a quite 
+a good shot.
+
+This is a very large level, with an average play time of over 
+30 minutes.  Save often!  There are a couple of fairly hard 
+puzzles that must be solved to complete the level.  There are 
+at least two places where you can be trapped in acid with no 
+escape.  The extreme complexity of this map allows it to play 
+out in many different ways for high replay value.  The music 
+is /Nuclear Waste/, "nucler.19.mus".
+
+Happy hunting (and being hunted :-)
+
+* Copyright / Permissions *
+This wad may be distributed freely in its zipped form with 
+this document included.  All other rights reserved.  Music 
+lost.mus, acidrk12.mus, nucler19.mus copyright © 1997-2002 by 
+David J. Finnamore.
+
+===========================================================================
+Primary purpose         : Single play
+===========================================================================
+Title                   : Oblivion
+Filename                : Oblivion.zip
+Release date            : 9/17/17
+Author                  : Adam Goldman
+Email Address           : [redacted]
+Other Files By Author   : AMine.wad
+                          unnamed.wad
+
+Description             : This is one of three wads I have recently made. 
+                          It's intended for single player.
+
+Additional Credits to   : Id Software.
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom
+Map #                   : 1
+Single Player           : Player starts only
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 50+ hours
+Editor(s) used          : Doom Builder v2.0
+Known Bugs              : None
+May Not Run With        : unknown
+Tested With             : Doom Builder v2.0
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of their
+resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have received
+permission from the original authors of any modified or included content in
+this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: Doomworld,
+           https://www.facebook.com/adam.goldman.37
+
+===========================================================================
+Primary purpose         : Single play
+===========================================================================
+Title                   : Outpost
+Filename                : Outpost.wad
+Release date            : 8/4/2011
+Author                  : Radromity
+Email Address           : radromity@gmail.com
+Misc. Author Info       : A new Doomer and wad maker.
+
+Description             : A very short Level where you explore a small out
+                          post
+
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : 1
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 1 day
+Editor(s) used          : Doom builder two
+Known Bugs              : None
+May Not Run With...     : Default
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+
+===========================================================================
+Title                   : Sinister Intention
+
+Filename                : sintentn.wad
+
+Release date            : 23/NOV/12
+
+Authors                 : Jay Townsend AKA Jayextee AKA ComicMishief
+
+Email Address           : hamslicejxt@gmail.com
+			  Please, don't contact me. Bother my Twitter (@Jayextee) if you must.
+			  My email address is only here so I can upload to idgames. ;)
+
+Description             : Having been away from Doom mapping for a decade, this was
+                          a thing I did to get back into the swing of things.
+
+			  As a result, these may be bad. And definitely not what I'd call
+			  'finished' -- I'd rather cap this at 7 maps and focus on a 'real'
+			  project, thanks. ;)
+
+			  It may be noteworthy that MAP03 and MAP06 aren't completely new,
+			  but were not officially-released when I made them more than ten
+			  years ago. I stuck them in here, they kinda fit.
+
+
+Additional Credits to   : Id Software for DooM2
+                          Schwerpunk for testing
+                          Purist for testing
+===========================================================================
+* What is included *
+
+New levels              : 7
+Sounds                  : No
+Music                   : Yes
+Graphics                : New sky
+Dehacked/BEX Patch      : No
+Demos                   : No
+
+
+* Play Information *
+
+Game                    : DooM2
+
+Map #                   : 1 - 7
+
+Single Player           : Of course
+
+Cooperative 2-4 Player  : Yes, but not tested.
+
+Deathmatch 2-4 Player   : Kinda. I put in some starts in a few levels, not all.
+
+Difficulty Settings     : Yes
+
+* Construction *
+
+Base                    : New Levels
+
+Build Time              : How long is a piece of ass?
+
+Known Bugs              : Possibility of VPO on MAP01, MAP02, MAP04.
+
+			  Use a limit-removing port, just to be safe.
+
+
+* Copyright / Permissions *
+
+Re-share and re-use to your heart's content, just credit "Jay Townsend" or "Jayextee".
+
+=======================================================================80 cols=
+Name        : No Imp Left Behind
+
+Description : BBG claims he does not know how to map, but <beep> makes the
+              process easy. As such, I wanted to find out how that fits me. 
+              It is a speedmap (not 100 minutes, but still considerable),
+              and is intentionally kept small. I once had an idea for a
+              starting room, and this seemed like a good point to finally
+              draw it, along with some more to actually make it a map.
+
+              It starts out with a brick-metal-lava cave and goes over to a
+              small outside area with a -- how else could it be -- brick
+              building. There's lots of imps to trash with the shotgun(s) and
+              fists. Fistfest.
+
+Author      : Jan Engelhardt <jengelh [at] gmx de>
+Release date: October 29 2004
+Files       : tekbrik.wad
+
+        This map is Copyright (C) Jan Engelhardt, 2004.
+        It may be modified and/or distributed under the
+        terms of the GNU GENERAL PUBLIC LICENSE V2,
+        (http://www.fsf.org/licenses/gpl.html),
+
+================================================================================
+
+Game        : Doom 2
+Engine req. : Boom compatible
+Map #       : MAP01
+Modes       : Single Player only,
+              no Cooperative or Deathmatch starts
+
+Difficulty  : implemented
+ settings     If you think it is too hard, try a lower skill level :P
+              Use the berserk packs wisely.
+
+Known bugs  : none
+Base        : from the gray [brain] cells and otherwise from scratch
+Build time  : 15 hours
+Editor used : DoomBuilder 1.61.311 (yes, it works well with the speed)
+
+===============================================================================
+
+Where to get this WAD:
+
+    http://linux01.org:2222/
+
+    or your favorite 3dArchives mirror, currently at
+    ftp://3darchives.in-span.net/pub/idgames/
+
+===============================================================================
+
+=======================================================================80 cols=
+Name        : The Marbelous Three
+
+Description : This map begun with a blood-marbled room as a possible candidate
+              entry to CC2, but soon evolved into a textural experiment
+              involving two facing worlds, tech vs marble. I tried to find a
+              good tex combination, since most tech(*) textures do not fit well
+              with marble. I hope I can satisfy this.
+
+              The "Three" in the map title refers to the early textural map
+              design where a lot of structural objects came in groups of three
+              due to the limited texture set. I mean, there are three faces
+              (LION, GARG, SATYR), three daemons (MARBFAC*), three
+              key(color)s... and that's pretty limited.
+
+Author      : Jan Engelhardt <jengelh [at] gmx de>
+Release date: October 29 2004
+Files       : tekmarb3.wad
+
+        This map is Copyright (C) Jan Engelhardt, 2004.
+        It may be modified and/or distributed under the
+        terms of the GNU GENERAL PUBLIC LICENSE V2,
+        (http://www.fsf.org/licenses/gpl.html),
+        with the exception of being BSP'ed with Deep.
+
+Additional  : boris - it'sa wad in progress!
+Credits       Cadman - cc2
+              Erik - testing trampoline
+
+================================================================================
+
+Game        : Doom 2
+Engine req. : Boom compatible
+Map #       : MAP19
+Modes       : Single Player only,
+              no Cooperative or Deathmatch starts
+
+Difficulty  : implemented
+ settings     The ammo/health/skill distribution is laid out in a way that it
+              does not depend on monster infight or finding secrets, and as
+              such may seem easy even on skill 4 for those who do not rush
+              through the monster mass.
+
+              And a hint: "Hide" behind projectile-firing monsters to
+              protect against hitscan weapons.
+
+Known bugs  : - Under non-ZDoom, the red skull accelerates, which should not
+                happen. This has been worked around, it now gets "out in
+                time" in all ports.
+              - not all secrets may be reached due to the fact that Legacy
+                is not fully Boom compatible
+              - [Legacy Software Renderer at least] the light is different
+                (dark areas are darker, and light areas are lighter than
+                other ports have it)
+
+Base        : from scratch and memory
+Build time  : according to Erik it must have been 250 hours
+              /me says 300 hours.
+              Or 8 months, depending on how you look at it.
+Editor used : WinZETH (yes, _Z_eth)
+
+===============================================================================
+
+Where to get this WAD:
+
+    http://linux01.org:2222/
+
+    or your favorite 3dArchives mirror, currently at
+    ftp://3darchives.in-span.net/pub/idgames/
+
+    sunet.se is also a nice one!
+
+(*) To clarify: "tech" means the E1 tech textures like CEIL1_1, EXITDOOR,
+    DOOR2 and such, while "tek" refers to the Doom2 green textures TEK*.
+    TEK would never fit with marble.
+    I had to crunch the filename to 8.3, though...
+
+===============================================================================
+
+
+
+
+
+***Some of the levels were developed by id games and others by LeadSoldier.***
+***Old mapmakers also have their place here.***
+
+
+
+
+
+
+
